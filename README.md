@@ -1,7 +1,29 @@
+
+<br/>
+<p align="center">
+    <a >
+        <img width="65%" src="https://res.cloudinary.com/triggsumms/image/upload/v1607483391/pjjkopqkx19wqev4fwi5.jpg"  alt="TRACKER logo">
+    </a>
+</p>
+
+<br/>
+
+
+
 # ReactNativeReduxCasts
-Companion Repo for [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course)
+> The Complete React Native + Hooks Course [2020 Edition]
 
-This repo is organized by branches - each branch lines up with one video in the course.  You can use the branch seletor (above, to the left side) to select the section you want to see.  Alternatively, you can just look at the completed code, which is available on the master branch.
+> ## Companion Repo for [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course)
+ * Taught via Stephen Grider
 
 
-# ReactNativevsRedux-Coursework
+
+<br/>
+<p align="center">
+    <a >
+        <img width="25%" src="https://res.cloudinary.com/triggsumms/image/upload/v1607483390/tqndto6li4tncninnczt.png"  alt="TRACKER logo">
+    </a>
+</p>
+
+<br/>
+
